@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Python runner",
+    "files": [],
+    "icon": "",
+    "author": {
+      "name": "Ajit Kumar",
+      "email": "me@ajitkumar.dev",
+      "github": "deadlyjack"
+    }
+  },
+  {
+    "name": "Prettier",
+    "files": [],
+    "icon": "",
+    "author": {
+      "name": "Ajit Kumar",
+      "email": "me@ajitkumar.dev",
+      "github": "deadlyjack",
+    }
+  }
+]
