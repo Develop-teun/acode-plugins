@@ -1,22 +1,13 @@
 [
   {
-    "name": "Python runner",
-    "files": [],
-    "icon": "",
+    "id": "acode.plugin.python",
+    "name": "Python",
+    "icon": "https://raw.githubusercontent.com/deadlyjack/acode-plugin-python/main/icon.png",
+    "plugin": "https://raw.githubusercontent.com/deadlyjack/acode-plugin-python/main/plugin.json"
     "author": {
       "name": "Ajit Kumar",
       "email": "me@ajitkumar.dev",
       "github": "deadlyjack"
     }
   },
-  {
-    "name": "Prettier",
-    "files": [],
-    "icon": "",
-    "author": {
-      "name": "Ajit Kumar",
-      "email": "me@ajitkumar.dev",
-      "github": "deadlyjack"
-    }
-  }
 ]
